@@ -4,13 +4,6 @@ Never Never Giveup.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiaz0128&layout=compact" />
 
-<p>  
-  <h3>LeetCode Stats</h3>
-  <a href="https://leetcode.com/tiaz0128/">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=tiaz0128&theme=dark"/>
-  </a>
-</p>
-
 <br/>
 
 <!--START_SECTION:waka-->
