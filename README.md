@@ -13,16 +13,16 @@ Never Never Giveup.
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 mins              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 31/01/2022 18:40:49 UTC
+ Last Updated on 01/02/2022 18:41:15 UTC
 <!--END_SECTION:waka-->
