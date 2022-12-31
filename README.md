@@ -5,7 +5,7 @@ Never Never Giveup.
 [![certified-information-systems-security-professional-cissp](https://user-images.githubusercontent.com/44606727/157613689-acd84ec6-5f8f-4e79-89d9-a8d51f033634.png)](https://www.credly.com/badges/f394a010-85a0-450b-9136-8043af01d71c/public_url)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C356%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C356%20hrs%2030%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -28,5 +28,5 @@ Windows                  12 hrs 28 mins      ███████████�
 ```
 
 
- Last Updated on 30/12/2022 18:36:43 UTC
+ Last Updated on 31/12/2022 18:35:30 UTC
 <!--END_SECTION:waka-->
