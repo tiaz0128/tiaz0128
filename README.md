@@ -7,8 +7,28 @@ Never Never Giveup.
 [![Microsoft Certified: Azure Fundamentals(AZ-900)](https://github.com/user-attachments/assets/7eb23f86-6311-42f9-83ab-166a25656710)](https://learn.microsoft.com/en-us/users/tiaz0128/credentials/ca6706271c8233ef)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C206%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C210%20hrs%202%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Python                   11 hrs 42 mins      █████████████████████░░░░   84.30 % 
+Text                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+
+🔥 Editors: 
+VS Code                  13 hrs 53 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+WSL                      13 hrs 29 mins      ████████████████████████░   97.12 % 
+Windows                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+```
 
 
- Last Updated on 12/06/2025 18:39:19 UTC
+ Last Updated on 13/06/2025 18:39:41 UTC
 <!--END_SECTION:waka-->
