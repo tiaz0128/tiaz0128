@@ -9,8 +9,6 @@ Never Never Giveup.
 [![Google Cloud: Associate Cloud Engineer Certification(ACE)](https://github.com/user-attachments/assets/cfd997df-d382-484c-8760-6fa93a7d1d1f)](https://www.credly.com/earner/earned/share/1a52c593-93e4-470f-93ed-53d57051b28e)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C414%20hrs%2022%20mins-blue)
 
-
- Last Updated on 19/09/2025 18:37:48 UTC
+ Last Updated on 20/09/2025 18:35:41 UTC
 <!--END_SECTION:waka-->
