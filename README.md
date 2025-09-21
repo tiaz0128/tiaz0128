@@ -9,6 +9,28 @@ Never Never Giveup.
 [![Google Cloud: Associate Cloud Engineer Certification(ACE)](https://github.com/user-attachments/assets/cfd997df-d382-484c-8760-6fa93a7d1d1f)](https://www.credly.com/earner/earned/share/1a52c593-93e4-470f-93ed-53d57051b28e)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C415%20hrs%2026%20mins-blue)
 
- Last Updated on 20/09/2025 18:35:41 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Python                   10 hrs 31 mins      ███████████████████████░░   91.01 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+
+🔥 Editors: 
+VS Code                  11 hrs 33 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+WSL                      11 hrs 28 mins      █████████████████████████   99.32 % 
+Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+```
+
+
+ Last Updated on 21/09/2025 18:36:34 UTC
 <!--END_SECTION:waka-->
