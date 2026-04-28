@@ -21,20 +21,20 @@ Never Never Giveup.
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 1 hr 24 mins        ████████░░░░░░░░░░░░░░░░░   30.25 % 
-Python                   1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-Text                     48 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-JSON                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Bash                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Python                   3 hrs 2 mins        ████████████████░░░░░░░░░   65.84 % 
+Markdown                 1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   26.37 % 
+JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 38 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      4 hrs 16 mins       ███████████████████████░░   92.14 % 
-Windows                  21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+WSL                      4 hrs 27 mins       ████████████████████████░   96.52 % 
+Windows                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 ```
 
 
- Last Updated on 27/04/2026 18:53:32 UTC
+ Last Updated on 28/04/2026 19:01:21 UTC
 <!--END_SECTION:waka-->
