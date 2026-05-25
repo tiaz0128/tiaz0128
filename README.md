@@ -21,19 +21,15 @@ Never Never Giveup.
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   2 hrs 33 mins       █████████████░░░░░░░░░░░░   51.53 % 
-Bash                     1 hr 55 mins        ██████████░░░░░░░░░░░░░░░   38.91 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 47 mins       ████████████████████████░   96.59 % 
-Claude Code              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      4 hrs 57 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 24/05/2026 18:50:24 UTC
+ Last Updated on 25/05/2026 18:59:50 UTC
 <!--END_SECTION:waka-->
