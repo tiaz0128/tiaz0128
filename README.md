@@ -13,8 +13,6 @@ Never Never Giveup.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C690%20hrs%2051%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -36,5 +34,5 @@ WSL                      7 hrs 5 mins        ███████████�
 ```
 
 
- Last Updated on 06/06/2026 18:52:56 UTC
+ Last Updated on 07/06/2026 18:53:58 UTC
 <!--END_SECTION:waka-->
