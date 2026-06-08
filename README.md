@@ -13,26 +13,29 @@ Never Never Giveup.
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C690%20hrs%2051%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   4 hrs 33 mins       ████████████████░░░░░░░░░   64.17 % 
-JSON                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Markdown                 46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Bash                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-SQL                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Python                   3 hrs 22 mins       ████████████████░░░░░░░░░   63.66 % 
+Bash                     1 hr                █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 35 mins       ███████████████████████░░   92.94 % 
-Claude Code              30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+VS Code                  5 hrs 13 mins       █████████████████████████   98.55 % 
+Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 💻 Operating System: 
-WSL                      7 hrs 5 mins        █████████████████████████   100.00 % 
+WSL                      5 hrs 9 mins        ████████████████████████░   97.28 % 
+Windows                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
 
 
- Last Updated on 07/06/2026 18:53:58 UTC
+ Last Updated on 08/06/2026 19:15:51 UTC
 <!--END_SECTION:waka-->
