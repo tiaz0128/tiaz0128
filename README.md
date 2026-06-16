@@ -13,7 +13,7 @@ Never Never Giveup.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C706%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C708%20hrs%2015%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,21 +21,21 @@ Never Never Giveup.
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   8 hrs 21 mins       █████████████████░░░░░░░░   68.84 % 
-Bash                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-TypeScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Python                   4 hrs 23 mins       ███████████████░░░░░░░░░░   58.06 % 
+Other                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+JSON                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Bash                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+TypeScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 15 mins      ███████████████████████░░   92.80 % 
-Claude Code              52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+VS Code                  7 hrs 8 mins        ████████████████████████░   94.49 % 
+Claude Code              24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 
 💻 Operating System: 
-WSL                      11 hrs 36 mins      ████████████████████████░   95.69 % 
-Windows                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+WSL                      7 hrs 2 mins        ███████████████████████░░   93.08 % 
+Windows                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 ```
 
 
- Last Updated on 15/06/2026 19:45:14 UTC
+ Last Updated on 16/06/2026 19:43:17 UTC
 <!--END_SECTION:waka-->
