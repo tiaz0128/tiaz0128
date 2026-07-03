@@ -13,29 +13,8 @@ Never Never Giveup.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C731%20hrs%2019%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Python                   6 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-Markdown                 6 hrs               ███████░░░░░░░░░░░░░░░░░░   26.21 % 
-TypeScript               5 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-Bash                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-GDScript3                1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-
-🔥 Editors: 
-Claude Code              19 hrs 59 mins      ██████████████████████░░░   87.21 % 
-VS Code                  2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-
-💻 Operating System: 
-WSL                      21 hrs 16 mins      ███████████████████████░░   92.85 % 
-Windows                  1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C732%20hrs%2016%20mins-blue?style=flat)
 
 
- Last Updated on 02/07/2026 18:58:23 UTC
+ Last Updated on 03/07/2026 18:51:20 UTC
 <!--END_SECTION:waka-->
