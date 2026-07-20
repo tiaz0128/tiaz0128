@@ -21,21 +21,21 @@ Never Never Giveup.
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               3 hrs 45 mins       ███████████░░░░░░░░░░░░░░   44.41 % 
-Markdown                 1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-Python                   1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-JavaScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-CSS                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+TypeScript               3 hrs 43 mins       ████████████████░░░░░░░░░   64.93 % 
+JavaScript               42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+CSS                      37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Markdown                 35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 8 mins        ████████████████████████░   96.22 % 
-VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Claude Code              5 hrs 35 mins       ████████████████████████░   97.40 % 
+VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 💻 Operating System: 
-WSL                      8 hrs 27 mins       █████████████████████████   99.90 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+WSL                      5 hrs 43 mins       █████████████████████████   99.85 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 
 
- Last Updated on 19/07/2026 18:46:39 UTC
+ Last Updated on 20/07/2026 19:06:45 UTC
 <!--END_SECTION:waka-->
